@@ -1,4 +1,3 @@
-!>@brief The module 'stochy_gg_def' declares array defining the gaussian grid attributes
       module stochy_gg_def
       use machine
       implicit none

@@ -1,4 +1,3 @@
-!>@brief The module 'stochy_layout_lag' contains the decomposition attributes of the gaussian grid
       module stochy_layout_lag
       use machine
       implicit none
